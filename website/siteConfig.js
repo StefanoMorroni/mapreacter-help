@@ -16,11 +16,11 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
-  tagline: 'A website for testing',
+  title: 'mapreacter help' /* title for your website */,
+  tagline: 'mapreacter-help',
   url: 'https://facebook.github.io' /* your website url */,
-  baseUrl: '/test-site/' /* base url for your project */,
-  projectName: 'test-site',
+  baseUrl: '/mapreacter-help/' /* base url for your project */,
+  projectName: 'mapreacter-help',
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
     {doc: 'doc4', label: 'API'},

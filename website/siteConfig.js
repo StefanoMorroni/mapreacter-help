@@ -22,7 +22,7 @@ const siteConfig = {
   baseUrl: '/mapreacter-help/' /* base url for your project */,
   projectName: 'mapreacter-help',
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
+    {doc: 'mapreacter', label: 'mapreacter'},
     {doc: 'doc4', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},

@@ -6,11 +6,11 @@ sidebar_label: mapreacter
 
 ![mapreacter.png](assets/mapreacter.png)
 
-The system allows viewing of observations and / or distributions by order, family, genus or species.
+The system allows the visualization on the map of the observations and distributions for the order, the family, the genus or the selected species.
 
-## parameters:
+## Filters:
 
-Parameters can be passed via url or via [search section](doc_search.md).
+Filters (such as order, family, genus or species view) can be passed via url or via the [taxonomy search] (doc_search.md).
 
 ## Here are some example urls:
 

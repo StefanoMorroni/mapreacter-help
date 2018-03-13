@@ -4,11 +4,11 @@ id: doc_mapreacter
 
 ![mapreacter.png](assets/mapreacter.png)
 
-Il sistema permette la visualizzazione delle osservazioni e/o delle distribuzioni per ordine, famiglia, genere o specie.
+Il sistema consente la visualizzazione su mappa delle osservazioni e delle distribuzioni per l'ordine, la famiglia, il genere o la specie selezionata.
 
-## parametri di visualizzazione:
+## Filtri:
 
-I parametri di visualizzazione possono essere passati tramite url oppure tramite la [sezione di ricerca](doc_search.md).
+I filtri (quale ordine, famiglia, genere o specie visualizzare) possono essere passati tramite url oppure tramite la [ricerca tassonomica](doc_search.md).
 
 ## Di seguito alcune url di esempio:
 

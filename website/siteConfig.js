@@ -29,12 +29,12 @@ const siteConfig = {
   ],
   users,
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
+  headerIcon: 'img/ispra_logo.png',
   footerIcon: 'img/docusaurus.svg',
-  favicon: 'img/favicon.png',
+  favicon: 'img/favicon/favicon.ico',
   /* colors for website */
   colors: {
-    primaryColor: '#2E8555',
+    primaryColor: '#005b1b',
     secondaryColor: '#205C3B',
   },
   /* custom fonts for website */
@@ -63,7 +63,7 @@ const siteConfig = {
   // You may provide arbitrary config keys to be used as needed by your template.
   repoUrl: 'https://github.com/facebook/test-site',
   /* On page navigation for the current documentation page */
-  // onPageNav: 'separate',
+  onPageNav: 'separate',
 };
 
 module.exports = siteConfig;

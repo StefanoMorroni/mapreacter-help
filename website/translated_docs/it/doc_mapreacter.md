@@ -10,8 +10,9 @@ Il sistema consente la visualizzazione su mappa delle osservazioni e delle distr
 
 I filtri (quale ordine, famiglia, genere o specie visualizzare) possono essere passati tramite url oppure tramite la [ricerca tassonomica](doc_search.md).
 
-## Di seguito alcune url di esempio:
+## url di esempio:
 
+Di seguito alcune url di esempio:
 ```
 http://193.206.192.107/mapreacter/#/Chordeumatida
 http://193.206.192.107/mapreacter/#/*/Chordodidae

@@ -1,18 +1,18 @@
 ---
-id: mapreacter
+id: doc_mapreacter
 title: mapreacter
 sidebar_label: mapreacter
 ---
 
 ![mapreacter.png](assets/mapreacter.png)
 
-The system allows viewing of observations and / or distributions by order, family, genus or species.
+Il sistema permette la visualizzazione delle osservazioni e/o delle distribuzioni per ordine, famiglia, genere o specie.
 
-## parameters:
+## parametri di visualizzazione:
 
-Parameters can be passed via url or via [search section](search.md).
+I parametri di visualizzazione possono essere passati tramite url oppure tramite la [sezione di ricerca](doc_search.md).
 
-## Here are some example urls:
+## Di seguito alcune url di esempio:
 
 ```
 http://193.206.192.107/mapreacter/#/Chordeumatida
@@ -20,6 +20,7 @@ http://193.206.192.107/mapreacter/#/*/Chordodidae
 http://193.206.192.107/mapreacter/#/*/*/Chordodes
 http://193.206.192.107/mapreacter/#/*/*/*/Smicromyrme ruficollis ruficollis
 ```
+
 
 
 

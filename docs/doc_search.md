@@ -1,10 +1,10 @@
 ---
-id: search
+id: doc_search
 title: Taxonomy Search
 sidebar_label: Taxonomy Search
 ---
 
-![immagine del sistema](assets/search.png)
+![search.png](assets/search.png)
 
 ## Taxonomic search
 

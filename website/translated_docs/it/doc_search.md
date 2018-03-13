@@ -1,5 +1,5 @@
 ---
-id: search
+id: doc_search
 title: Ricerca Tassonomica
 sidebar_label: Ricerca Tassonomica
 ---

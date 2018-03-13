@@ -1,7 +1,5 @@
 ---
 id: doc_search
-title: Ricerca Tassonomica
-sidebar_label: Ricerca Tassonomica
 ---
 
 ![search.png](assets/search.png)

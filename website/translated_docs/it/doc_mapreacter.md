@@ -1,7 +1,5 @@
 ---
 id: doc_mapreacter
-title: mapreacter
-sidebar_label: mapreacter
 ---
 
 ![mapreacter.png](assets/mapreacter.png)

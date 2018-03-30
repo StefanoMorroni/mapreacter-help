@@ -16,7 +16,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'mapreacter help' /* title for your website */,
+  title: '' /* title for your website */,
   tagline: 'mapreacter-help',
   url: 'https://facebook.github.io' /* your website url */,
   baseUrl: '/mapreacter-help/' /* base url for your project */,
@@ -30,7 +30,7 @@ const siteConfig = {
   users,
   /* path to images for header/footer */
   headerIcon: 'img/ispra_logo.png',
-  footerIcon: 'img/docusaurus.svg',
+  footerIcon: '',
   favicon: 'img/favicon/favicon.ico',
   /* colors for website */
   colors: {

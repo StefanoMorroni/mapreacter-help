@@ -10,7 +10,7 @@ The system allows the visualization on the map of the observations and distribut
 
 ## Filters:
 
-Filters (such as order, family, genus or species view) can be passed via url or via the [taxonomy search] (doc_search.md).
+Filters (wich order, family, genus or species to display) can be passed via url or via the [taxonomic search](doc_search.md) and [province filter region](doc_regionprovince.md).
 
 ## Here are some example urls:
 

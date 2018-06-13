@@ -6,15 +6,15 @@ id: doc_toc
 
 ## Table of Content
 
-Questa sezione permette di visualizzare la lista dei layer e delle base map presenti.
+Questa sezione permette di visualizzare la lista dei layer.
 
 Per ognuno di questi sono possibili le azioni che seguono: 
 
-## Hide / Show
+## on/off
 
 Tramite questi pulsanti il layer selezionato può essere acceso o spento.
 
-## Up / Down
+## su giù
 
 Tramite questi pulsanti il layer selezionato può essere portato in alto o in basso sulla scala della visibilità.
 

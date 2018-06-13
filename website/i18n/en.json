@@ -12,6 +12,8 @@
     "mapreacter": "mapreacter",
     "doc_measure": "Measure",
     "Measure": "Measure",
+    "doc_regionprovince": "Filter by region/province",
+    "region/province": "region/province",
     "doc_search": "Taxonomy Search",
     "Taxonomy Search": "Taxonomy Search",
     "doc_share": "Share URL",

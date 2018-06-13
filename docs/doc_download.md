@@ -7,4 +7,4 @@ sidebar_label: Download layers
 ![download.png](assets/download.png)
 
 
-This feature allows to download the layers in one of the following formats: PNG, CSV and Shapefile.
+This feature allows to download the layers in one of the following formats: PNG, CSV, Shapefile and PDF.

@@ -8,15 +8,15 @@ sidebar_label: ToC (table of content)
 
 ## Table of Content
 
-This section allows to view the list of layers and base maps.
+This section allows to view the list of layers.
 
 For each of these the following actions are possible:
 
-## Hide / Show
+## on/off
 
 With these buttons the selected layer can be switched on or off.
 
-## Up / Down
+## up / down
 
 Through these buttons the selected layer can be brought up or down on the visibility scale.
 

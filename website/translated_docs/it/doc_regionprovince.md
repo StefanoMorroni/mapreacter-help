@@ -6,6 +6,6 @@ Questo filtro consente di limitare alla regione/provincia selezionata la visuali
 
 ## Esempio
 
-Nel caso che segue viene motrata la specie "Motacilla flava" per il solo Lazio.
+Nel caso che segue viene mostrata la specie "Motacilla flava" per il solo Lazio.
 
 ![regionprovince.png](assets/regionprovince.png)

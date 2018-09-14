@@ -4,7 +4,7 @@ id: doc_mapreacter
 
 ![mapreacter.png](assets/mapreacter.png)
 
-Il sistema consente la visualizzazione su mappa delle osservazioni e delle distribuzioni per l'ordine, la famiglia, il genere o la specie selezionata.
+Questa applicazione consente la visualizzazione su mappa delle osservazioni e delle distribuzioni per l'ordine, la famiglia, il genere o la specie selezionata.
 
 ## Filtri:
 

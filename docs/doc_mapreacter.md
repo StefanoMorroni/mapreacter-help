@@ -6,7 +6,7 @@ sidebar_label: mapreacter
 
 ![mapreacter.png](assets/mapreacter.png)
 
-The system allows the visualization on the map of the observations and distributions for the order, the family, the genus or the selected species.
+This app allows the visualization on the map of the observations and distributions for the order, the family, the genus or the selected species.
 
 ## Filters:
 
@@ -15,10 +15,10 @@ Filters (wich order, family, genus or species to display) can be passed via url 
 ## Here are some example urls:
 
 ```
-http://193.206.192.107/mapreacter/#/Chordeumatida
-http://193.206.192.107/mapreacter/#/*/Chordodidae
-http://193.206.192.107/mapreacter/#/*/*/Chordodes
-http://193.206.192.107/mapreacter/#/*/*/*/Smicromyrme ruficollis ruficollis
+http://193.206.192.107/mapreacter/#/Passeriformes
+http://193.206.192.107/mapreacter/#/*/Motacillidae
+http://193.206.192.107/mapreacter/#/*/*/Motacilla
+http://193.206.192.107/mapreacter/#/*/*/*/Motacilla%20flava
 ```
 
 

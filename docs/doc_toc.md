@@ -16,10 +16,6 @@ For each of these the following actions are possible:
 
 With these buttons the selected layer can be switched on or off.
 
-## up / down
-
-Through these buttons the selected layer can be brought up or down on the visibility scale.
-
 ## Fit Extent
 
 This function allows you to reset the map size based on the content of the selected layer.
